@@ -1,6 +1,5 @@
 # QuantEcon
 Note for QuantEcon Lectures
-Part 1 Introduction to Python
 - [Part 1 Introduction to Python 1~4](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/Part%201_%20Introduction%20to%20Python%201~4.ipynb)
    - 1.1 About Python
    - 1.2 Setting up Your Python Environment
