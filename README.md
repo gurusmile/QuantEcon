@@ -5,11 +5,17 @@ Note for QuantEcon Lectures
    - 1.2 Setting up Your Python Environment
    - 1.3 An Introductory Example
    - 1.4 Python Essentials
-- [Part 1 Introduction to Python 5~7](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/Part%201_%20Introduction%20to%20Python%205~7.ipynb)
-   - 1.5 NumPy
-   - 1.6 Matplotlib
-   - 1.7 SciPy
-- Part 1 Introduction to Python 8~9
-   - 1.8 Object Oriented Programming
-   - 1.9 OOP in Action: The Samuelson Accelerator
-- Part 2 Advanced Python Programming
+   - 1.5 OOP I: Introduction to Object Oriented Programming
+- [Part 2 The Scientific Libraries 1~3](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/Part%202_%20The%20Scientific%20Libraries%201%7E3.ipynb)
+   - 2.1 NumPy
+   - 2.2 Matplotlib
+   - 2.3 SciPy
+   - 2.4 Numba
+   - 2.5 Other Scientific Libraries
+- Part 3 Advanced Python Programming
+   - 3.1 Writing Good Code
+   - [3.2 OOP II: Building Classes](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/3.2%20OOP%20II%20Building%20Classes.ipynb)
+   - 3.3 OOP in Action: The Samuelson Accelerator
+   - 3.4 More Language Features
+   - 3.5 Debugging
+
