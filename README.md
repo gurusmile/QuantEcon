@@ -1,12 +1,12 @@
 # QuantEcon
 Note for QuantEcon Lectures
-- [Part 1 Introduction to Python 1~4](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/Part%201_%20Introduction%20to%20Python%201~4.ipynb)
+- Part 1 Introduction to Python [1~4](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/Part%201_%20Introduction%20to%20Python%201~4.ipynb)
    - 1.1 About Python
    - 1.2 Setting up Your Python Environment
    - 1.3 An Introductory Example
    - 1.4 Python Essentials
    - 1.5 OOP I: Introduction to Object Oriented Programming
-- [Part 2 The Scientific Libraries 1~3](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/Part%202_%20The%20Scientific%20Libraries%201%7E3.ipynb)
+- Part 2 The Scientific Libraries [1~3](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/Part%202_%20The%20Scientific%20Libraries%201%7E3.ipynb)
    - 2.1 NumPy
    - 2.2 Matplotlib
    - 2.3 SciPy
