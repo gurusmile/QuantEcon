@@ -19,10 +19,10 @@ Note for QuantEcon Lectures
    - [3.4 More Language Features](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/3.4%20More%20Language%20Features.ipynb)
    - [3.5 Debugging](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/3.5%20Debugging.ipynb)
 - Part 4 Data and Empirics
-   - 4.1 Pandas
-   - 4.2 Pandas for Panel Data
-   - 4.3 Linear Regression in Python
-   - 4.4 Maximum Likelihood Estimation
+   - [4.1 Pandas](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/4.1%20Pandas.ipynb)
+   - [4.2 Pandas for Panel Data](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/4.2%20Pandas%20for%20Panel%20Data%20.ipynb)
+   - [4.3 Linear Regression in Python](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/4.3%20Linear%20Regression%20in%20Python.ipynb)
+   - [4.4 Maximum Likelihood Estimation](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/4.4%20Maximum%20Likelihood%20Estimation.ipynb)
 - Part 5 Tools and Techniques
    - 5.1 Linear Algebra
    - 5.2 Orthogonal Projections and Their Applications
