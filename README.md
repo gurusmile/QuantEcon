@@ -13,9 +13,67 @@ Note for QuantEcon Lectures
    - [2.4 Numba](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/2.4%20Numba.ipynb)
    - 2.5 Other Scientific Libraries
 - Part 3 Advanced Python Programming
-   - 3.1 Writing Good Code
+   - [3.1 Writing Good Code](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/3.1%20Writing%20good%20code.ipynb)
    - [3.2 OOP II: Building Classes](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/3.2%20OOP%20II%20Building%20Classes.ipynb)
-   - 3.3 OOP in Action: The Samuelson Accelerator
-   - 3.4 More Language Features
-   - 3.5 Debugging
-
+   - [3.3 OOP in Action: The Samuelson Accelerator](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/3.3%20OOP%20III%20The%20Samuelson%20Accelerator.ipynb)
+   - [3.4 More Language Features](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/3.4%20More%20Language%20Features.ipynb)
+   - [3.5 Debugging](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/3.5%20Debugging.ipynb)
+- Part 4 Data and Empirics
+   - 4.1 Pandas
+   - 4.2 Pandas for Panel Data
+   - 4.3 Linear Regression in Python
+   - 4.4 Maximum Likelihood Estimation
+- Part 5 Tools and Techniques
+   - 5.1 Linear Algebra
+   - 5.2 Orthogonal Projections and Their Applications
+   - 5.3 LLN and CLT
+   - 5.4 Linear State Space Models
+   - 5.5 Finite Markov Chains
+   - 5.6 Continuous State Markov Chains
+   - 5.7 A First Look at the Kalman Filter
+- Part 6 Dynamic Programming
+   - 6.1 Shortest Paths
+   - 6.2 Job Search I: The McCall Search Model
+   - 6.3 Job Search II: Search and Separation
+   - 6.4 A Problem that Stumped Milton Friedman
+   - 6.5 Job Search III: Search with Learning
+   - 6.6 Job Search IV: Modeling Career Choice
+   - 6.7 Job Search V: On-the-Job Search
+   - 6.8 Optimal Growth I: The Stochastic Optimal Growth Model
+   - 6.9 Optimal Growth II: Time Iteration
+   - 6.10 Optimal Growth III: The Endogenous Grid Method
+   - 6.11 LQ Dynamic Programming Problems
+   - 6.12 Optimal Savings I: The Permanent Income Model
+   - 6.13 Optimal Savings II: LQ Techniques
+   - 6.14 Consumption and Tax Smoothing with Complete and Incomplete Markets
+   - 6.15 Optimal Savings III: Occasionally Binding Constraints
+   - 6.16 Robustness
+   - 6.17 Discrete State Dynamic Programming
+- Part 7 Multiple Agent Models
+   - 7.1 Schelling’s Segregation Model
+   - 7.2 A Lake Model of Employment and Unemployment
+   - 7.3 Rational Expectations Equilibrium
+   - 7.4 Markov Perfect Equilibrium
+   - 7.5 Asset Pricing I: Finite State Models
+   - 7.6 Asset Pricing II: The Lucas Asset Pricing Model
+   - 7.7 Asset Pricing III: Incomplete Markets
+   - 7.8 Uncertainty Traps
+   - 7.9 The Aiyagari Model
+   - 7.10 Default Risk and Income Fluctuations
+   - 7.11 Globalization and Cycles
+- Part 8 Time Series Models
+   - 8.1 Covariance Stationary Processes
+   - 8.2 Estimation of Spectra
+   - 8.3 Additive Functionals
+   - 8.4 Multiplicative Functionals
+   - 8.5 Classical Control with Linear Algebra
+   - 8.6 Classical Filtering With Linear Algebra
+- Part 9 Dynamic Programming Squared
+   - 9.1 Dynamic Stackelberg Problems
+   - 9.2 Ramsey plans, Time Inconsistency, Sustainable Plans
+   - 9.3 Optimal Taxation in an LQ Economy
+   - 9.4 Optimal Taxation with State-Contingent Debt
+   - 9.5 Optimal Taxation without State-Contingent Debt
+   - 9.6 Competitive Equilibria of Chang Model
+   - 9.7 Credible Government Policies in Chang Model
+- References
