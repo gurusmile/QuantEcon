@@ -15,7 +15,7 @@ Note for QuantEcon Lectures
 - Part 3 Advanced Python Programming
    - [3.1 Writing Good Code](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/3.1%20Writing%20good%20code.ipynb)
    - [3.2 OOP II: Building Classes](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/3.2%20OOP%20II%20Building%20Classes.ipynb)
-   - [3.3 OOP in Action: The Samuelson Accelerator](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/3.3%20OOP%20III%20The%20Samuelson%20Accelerator.ipynb)
+   - [3.3 OOP III: The Samuelson Accelerator](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/3.3%20OOP%20III%20The%20Samuelson%20Accelerator.ipynb)
    - [3.4 More Language Features](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/3.4%20More%20Language%20Features.ipynb)
    - [3.5 Debugging](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/3.5%20Debugging.ipynb)
 - Part 4 Data and Empirics
