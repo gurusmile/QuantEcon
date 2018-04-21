@@ -77,3 +77,9 @@ Note for QuantEcon Lectures
    - 9.6 Competitive Equilibria of Chang Model
    - 9.7 Credible Government Policies in Chang Model
 - References
+
+上海对外经贸大学 国际经贸学院 
+学习时间：周三下午1:00-5:30 博识楼4楼玻璃房
+学习课程：https://lectures.quantecon.org/py/
+组织老师：章韬 段鹏飞
+参与人员：潘艳 陈觉 吴兰兰 刘靓 牛晴晴 王伟庆 申洋 王赛 王增宇 蔡琦晟 张娟 刘子琦 尹航 任岩 李梦颖 黄伟生 李之旭
