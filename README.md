@@ -24,7 +24,7 @@ Note for QuantEcon Lectures
    - [4.3 Linear Regression in Python](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/4.3%20Linear%20Regression%20in%20Python.ipynb)
    - [4.4 Maximum Likelihood Estimation](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/4.4%20Maximum%20Likelihood%20Estimation.ipynb)
 - Part 5 Tools and Techniques
-   - 5.1 Linear Algebra
+   - [5.1 Linear Algebra](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/5.1%20Linear%20Algebra.ipynb)
    - 5.2 Orthogonal Projections and Their Applications
    - 5.3 LLN and CLT
    - 5.4 Linear State Space Models
