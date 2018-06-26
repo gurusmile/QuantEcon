@@ -25,8 +25,8 @@ Note for QuantEcon Lectures
    - [4.4 Maximum Likelihood Estimation](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/4.4%20Maximum%20Likelihood%20Estimation.ipynb)
 - Part 5 Tools and Techniques
    - [5.1 Linear Algebra](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/5.1%20Linear%20Algebra.ipynb)
-   - 5.2 Orthogonal Projections and Their Applications
-   - 5.3 LLN and CLT
+   - [5.2 Orthogonal Projections and Their Applications](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/5.2%20Orthogonal%20Projections%20and%20Their%20Applications.ipynb)
+   - [5.3 LLN and CLT](http://nbviewer.jupyter.org/github/gurusmile/QuantEcon/blob/master/5.3%20LLN_CLT.ipynb)
    - 5.4 Linear State Space Models
    - 5.5 Finite Markov Chains
    - 5.6 Continuous State Markov Chains
